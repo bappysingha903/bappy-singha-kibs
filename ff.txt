@@ -1,0 +1,2 @@
+font-family: 'Bree Serif', serif;
+font-family: 'Open Sans', sans-serif;
